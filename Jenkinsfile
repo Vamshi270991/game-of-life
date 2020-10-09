@@ -1,4 +1,4 @@
-node('REDHAT')
+node('awsnode')
 {
 stage ('scm')
 {
